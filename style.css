@@ -9,7 +9,6 @@ body{
 }
 
 /* navbar section style start */
-
 #nav-bar{
     position: sticky;
     top: 0;
@@ -45,11 +44,11 @@ body{
 .navbar-toggler {
     outline: none !important;
 }
-
 /* navbar section style end */
 
-/* banner section style staer */
 
+
+/* banner section style staer */
  #banner{
     background-image: linear-gradient(to right, #a517ba, #5f1782);
     color: #fff;
