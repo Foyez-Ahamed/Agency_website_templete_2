@@ -136,3 +136,27 @@ body{
 
 }
 /* services section style end  */
+
+
+
+/* about us section style start */
+#about-us{
+    padding-top: 50px ;
+    padding-bottom: 50px;
+    background: #f8f9fa;
+}
+
+.about-title{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 8%;
+}
+
+.about-us ul{
+    margin-left: -10px;
+}
+
+.about-us ul li{
+  margin: 10px 0;
+}
+/* about us section style end */
